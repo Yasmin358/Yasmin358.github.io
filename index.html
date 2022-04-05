@@ -3,71 +3,75 @@
   <head>
     <meta charset="UTF-8">
     <title>Portifólio Web</title>
-    <style>
-     body {
-       background-color: rgb(254, 250, 224);
-     }
-      h1 {
-        font-family: cursive;
-      }
-
-      h3 {
-        font-family: Georgia, 'Times New Roman', Times, serif;
-      }
-
-      p {
-        font-family: Arial, Helvetica, sans-serif;
-      }
-
-      b {
-        text-decoration: underline;
-      }
-
-      .Hab{
-        font-size: 20px;
-      }
-
-     
-
-    </style>
+    <link rel="stylesheet" href="style.css">
   </head>
   <body>
-    <h1>Yasmin Amorin dos Santos</h1>
-    <a href="#Habilidades">Minhas Habilidades</a>
-    <br>
-    <a href="#Sites">Sites Favoritos</a>
-    <br>
-    <br>
     
-    <img src= "Yasmin.jpg" alt="Foto da Yasmin sorrindo, com cabelo cacheado solto, usando oculos de grau e uma camisa xadrez por cima de uma blusa cinza">
+    <header> 
+     <h1>Yasmin Amorin dos Santos</h1> 
+    </header>
 
-    <h3>Seja Bem Vindo!</h3> 
-    <p>
-        <em>Meu nome é <a href="Yasmin.jpg">Yasmin</a>, sou <b>Brasileira</b>, moro em <b>Santa Catarina</b> na cidade de <b>Florianopolis</b>.
-        <br>
-        Sou formada no curso técnico em informatica no Instituto Federal 
-        <br>
-        e no curso tecnico de Jogos Digitais no Senac EAD.
-        <br>
-        Atualmente sou aluna de <b>Desenvolvimento Web na Trybe. </b>  
-     </em>    
-    </p>
+    <nav>
+      <ul>
+       <li><a href="#Habilidades">Minhas Habilidades</a></li> 
+       <li><a href="#Sites">Sites Favoritos</a> </li>
+      </ul>
+    </nav>
 
-    <h3 id="Habilidades">Minhas Habilidades</h3>
-    <ol>
-        <li class="Hab">Java</li>
-        <li class="Hab">C#</li>
-        <li class="Hab"><strong>Unity3D</strong></li>
-        <li class="Hab">Krita</li>
-        <li class="Hab">Criatividade</li>
-    </ol>
+    <main>
+        <section id="Dados">
 
-    <h3 id="Sites">Sites Favoritos</h3>
-    <ol>
-        <li><a href="https://www.tumblr.com/">Tumblr</li>
-        <li><a href="https://br.pinterest.com/">Pinterest</a></li>    
-    </ol>
+          <figure>
+                    <img src= "Yasmin.jpg" alt="Foto da Yasmin sorrindo, com cabelo cacheado solto, usando oculos de grau e uma camisa xadrez por cima de uma blusa cinza">
+          </figure>
 
+          <article id="text">
+              <header>
+                  <h3>Seja Bem Vindo!</h3> 
+              </header>
+              <p>
+                  <em>Meu nome é <a href="Yasmin.jpg">Yasmin</a>, sou <b>Brasileira</b>, moro em <b>Santa Catarina</b> na cidade de <b>Florianopolis</b>.
+                  <br>
+                  Sou formada no curso técnico em informatica no Instituto Federal 
+                  <br>
+                  e no curso tecnico de Jogos Digitais no Senac EAD.
+                  <br>
+                  Atualmente sou aluna de <b>Desenvolvimento Web na Trybe. </b>  
+                  </em>    
+              </p>
+          </article>
+
+        </section>
+          
+
+          
+         <section id="Nav1">
+          <h3 id="Habilidades">Minhas Habilidades</h3>
+          <ol>
+              <li class="Hab">Java</li>
+              <li class="Hab">C#</li>
+              <li class="Hab"><strong>Unity3D</strong></li>
+              <li class="Hab">Krita</li>
+              <li class="Hab">Criatividade</li>
+          </ol>
+        </section> 
+
+        <section id="Nav2">
+          <h3 id="Sites">Sites Favoritos</h3>
+          <ol>
+              <li><a href="https://www.tumblr.com/">Tumblr</li>
+              <li><a href="https://br.pinterest.com/">Pinterest</a></li>    
+          </ol>
+        </section>
+          
+
+          
+
+    </main>
+    
+    
+    
+  
     
 
   </body>
