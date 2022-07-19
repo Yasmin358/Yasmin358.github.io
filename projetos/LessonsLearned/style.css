@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(253, 251, 251);
+}
+
+#cabecalho {
+  top: 0;
+  position: fixed;
+}
+
+table {
+  width: 80%;
+}
+
+footer {
+  padding: 5px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+article , aside {
+  margin: 20px;
+  width: 60%;
+}
+
+img {
+  border: 3px grey solid;
+}
+
