@@ -1,0 +1,123 @@
+body {
+  background-color: rgb(255 255 240);
+}
+
+#title {
+  font-family: Square Peg, cursive;
+  font-size: 48px;
+  text-align: center;
+  margin: auto;
+}
+
+#funcionamento {
+  font-family: Square Peg, cursive;
+  font-size: 36px;
+  text-align: center;
+  margin: auto;
+  color: gray;
+}
+
+#input {
+  display: block;
+  margin: auto;
+  margin-bottom: 10px;
+  text-align: center;
+  width: 510px;
+  background-color: rgb(250 240 190);
+  padding-top: 10px;
+  padding-bottom: 5px;
+  box-shadow: 5px 5px 7px lightgrey;
+}
+
+#principal {
+  margin: auto;
+  text-align: center;
+  width: 550px;
+  height: 350px;
+}
+
+#buttons {
+  background-color: rgb(250 240 190);
+  width: 180px;
+  height: 280px;
+  margin: 20px;
+  float: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  box-shadow: 5px 5px 7px lightgrey;
+}
+
+#lista {
+  background-color: rgb(250 240 190);
+  width: 300px;
+  height: 280px;
+  margin: 20px;
+  margin-right: 0;
+  float: left;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  box-shadow: 5px 5px 7px lightgrey;
+}
+
+#lista-tarefas {
+  text-align: justify;
+  padding: 10px 25px;
+  margin: 16px;
+  margin-top: 6px;
+  font-family: Courier Prime, monospace;
+}
+
+.completed {
+  text-decoration: line-through solid black;
+}
+
+#texto-tarefa {
+  width: 280px;
+  height: 25px;
+  border-radius: 5px;
+  border: none;
+  box-shadow: 0 4px 0 rgb(255 255 133);
+  font-family: Courier Prime, monospace;
+}
+
+button {
+  display: block;
+  margin: auto;
+  margin-bottom: 10px;
+  font-family: Courier Prime, monospace;
+  font-weight: 700;
+  border-radius: 5px;
+  font-size: 16px;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+}
+
+button:hover {
+  color: black;
+}
+
+#apaga-tudo {
+  background-color: rgb(250 76 128);
+  box-shadow: 0 6px 0 rgb(249 36 100);
+}
+
+#remover-finalizados {
+  background-color: rgb(174 111 195);
+  box-shadow: 0 6px 0 rgb(156 81 182);
+  margin-left: 12.438px;
+  margin-right: 12.438px;
+}
+
+#remover-selecionado {
+  background-color: rgb(93 168 254);
+  box-shadow: 0 6px 0 rgb(52 146 254);
+  margin-left: 12.438px;
+  margin-right: 12.438px;
+}
+
+#criar-tarefa {
+  background-color: rgb(72 191 145);
+  box-shadow: 0 6px 0 rgb(58 166 125);
+  margin-top: 10px;
+}
