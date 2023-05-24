@@ -1,0 +1,227 @@
+/* stylelint-disable max-line-length */
+.header , .footer {
+  display: flex;
+  background-image: linear-gradient(
+    90deg, rgba(233, 84, 32, 1) 0%, rgba(255, 221, 85, 1) 33%, rgba(44, 160, 90, 1) 66%, rgba(95, 141, 211, 1) 100%
+  );
+  justify-content: space-between;
+}
+
+.footer {
+  justify-content: center;
+  font-family: Labrada, serif;
+}
+
+.header-logo {
+  display: flex;
+  flex-direction: row;
+  margin-left: 30px;
+}
+
+.forms {
+  display: flex;
+  align-items: center;
+  margin-right: 30px;
+}
+
+.header img {
+  width: 50px;
+}
+
+.trybewarts-login {
+  display: flex;
+  align-items: center;
+}
+
+main {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+main , #evaluation-form {
+  display: flex;
+}
+
+#evaluation-form {
+  flex-direction: column;
+  font-family: Labrada, serif;
+  justify-content: center;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  width: 675px;
+}
+
+#formTitle , .label {
+  font-weight: 700;
+}
+
+.content , .families {
+  display: flex;
+  flex-direction: column;
+  margin-left: 5px;
+  width: 50%;
+}
+
+.label.content {
+  flex-direction: row;
+  width: 100%;
+}
+
+#trybewarts-forms-logo {
+  height: 500px;
+  margin-top: 15px;
+}
+
+#trybewarts-header-title {
+  margin: 13px 0;
+}
+
+.input , #house {
+  border: none;
+  border-radius: 5px;
+  font-family: Labrada, serif;
+  font-size: 18px;
+  line-height: 25px;
+  margin: 5px;
+  outline: none;
+  padding-bottom: 5px;
+  padding-left: 5px;
+}
+
+.nome-sobrenome , .email-casa {
+  display: flex;
+  width: 100%;
+}
+
+.input.name , .input.lastname , .input.email , .label.house {
+  height: 25px;
+  width: 50%;
+  max-width: 100%;
+}
+
+.label.house {
+  margin: 5px;
+  padding-left: 7px;
+}
+
+#textarea {
+  font-family: Labrada, serif;
+  font-size: 18px;
+  height: 190px;
+  width: 100%;
+}
+
+#submit-button:disabled , #submit-btn:disabled {
+  background-color: rgb(207, 206, 206);
+  border: none;
+  border-radius: 5px;
+  color: white;
+  font-family: Labrada, serif;
+  font-size: 18px;
+  font-weight: 700;
+  height: 31px;
+  margin: 10px 5px;
+  outline: none;
+  padding: 0 15px;
+  padding-bottom: 5px;
+  width: 120px;
+}
+
+#submit-button:enabled , #submit-btn:enabled {
+  background-color: rgb(78, 44, 131);
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  color: white;
+  font-family: Labrada, serif;
+  font-size: 18px;
+  font-weight: 700;
+  height: 31px;
+  margin: 10px 5px;
+  outline: none;
+  padding: 0 15px;
+  padding-bottom: 5px;
+  width: 120px;
+}
+
+#questions , #questions2 {
+  display: flex;
+  justify-content: space-between;
+  max-height: 100px;
+}
+
+#questions2 {
+  justify-content: space-evenly;
+}
+
+#checkboxs , #avaliacao {
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+}
+
+#checkboxs {
+  flex-wrap: wrap;
+  justify-content: space-around;
+  max-width: 100%;
+}
+
+#checkboxs label {
+  display: flex;
+  margin: 0 2.5px;
+  width: 95px;
+}
+
+#rate {
+  display: flex;
+  justify-content: center;
+  margin: 5px;
+  height: 100%;
+  width: 100%;
+}
+
+.comments {
+  display: flex;
+  flex-direction: column;
+  margin: 5px;
+}
+
+.agree {
+  margin-top: 10px;
+  margin-left: 5px;
+}
+
+footer {
+  text-align: center;
+  background-color: rgb(50, 167, 145);
+  padding: 5px;
+}
+
+#house {
+  background-color: white;
+  height: 31px;
+  margin: 0;
+  max-width: 100%;
+  padding: 0 5px;
+  padding-bottom: 5px;
+  width: 87%;
+}
+
+hr {
+  border-style: 0.5px black ridge;
+  width: 675px;
+}
+
+body {
+  margin: 0;
+  background-color: ghostwhite;
+}
+
+#formTitle {
+  text-align: center;
+}
+
+p {
+  margin: 2px;
+}
+
