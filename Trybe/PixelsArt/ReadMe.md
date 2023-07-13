@@ -10,7 +10,7 @@
   <a href="#funcionalidades">Funcionalidades</a> •
   <a href="#demostração">Demostração</a> •
   <a href="#tecnologias">Tecnologias</a> •
-  <a href="##acesso-ao-projeto">Acesso ao projeto</a> •
+  <a href="#acesso-ao-projeto">Acesso ao projeto</a> •
   <a href="#creditos">Creditos</a> •
 </p>
 
@@ -20,7 +20,12 @@
  E possui tambem um input que muda o tamanho do quadro, ao selecionar o botão 'VQV'. 
  Para pintar o quadro é bastante simples, selecione uma cor da paleta e depois selecione um dos pixels do quadro.
 
- <
+ <h3 id="desmostração"> 🔭 Demostração </h3>
 
+ <h3 id="tecnologias"> 💻 Tecnologias </h3>
+
+ <h3 id="acesso-ao-projeto"> 📁 Acesso ao projeto </h3>
+ 
+ <h3 id="
 Desenvolvido no curso de Desenvolvimento Fullstack da TRYBE, no modulo de Fundamentos.
  
