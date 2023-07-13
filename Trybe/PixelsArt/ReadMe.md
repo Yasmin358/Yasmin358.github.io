@@ -1,19 +1,25 @@
 <h1 align="center"> Pixel Art </h1>
+<h4 align="center"> Site para criar desenhos em <a href="https://pt.wikipedia.org/wiki/Arte_pixel">Pixel Art</a> <br/>
+ Desenvolvido no curso de Desenvolvimento Fullstack da TRYBE, no modulo de Fundamentos. </h4>
+
+<
+![Concluido](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=blue&style=for-the-badge)
 
  * [Índice](#índice)
  * [Descrição do Projeto](#descrição-do-projeto)
- * [Status do Projeto](#status-do-projeto)
  * [Funcionalidades](#funcionalidades)
  * [Desmostração](#demostração)
  * [Tecnologias](#tecnologias)
  * [Acesso ao projeto](#acesso-ao-projeto)
  * [Autor](#autor)
 
- ### Descrição do Projeto
- Site para criar desenhos em Pixeal Art
+ ### 📜 Descrição do Projeto
 
- ### Funcionalidades
- - `Funcionalidade 1` `Gerar Paleta de Cores`: O site possui uma paleta com quatro cores diversas, que mudam sempre que a página é atualizada, a cor preta é fixa.
- - `Funcionalidade 2` `Quadro de Pixels`: O site possui um quadro de pixels dinamico, que utiliza a manipulação do DOM na sua inicialização e para mudar o tamanho do quadro.
- - `Funcionalidade 3` `Mudar Tamanho do Quadro`: O site possui a opção de mudar o tamanho do quadro de pixels, escolhendo um valor e clicando no botão `VQV`.
- - `Funcionalidade 4` `Pintar Quadro`: É possivel pintar o quadro depois de selecionar uma cor na paleta, selecionando um 'pixel' no quadro 
+
+ ### 🔨 Funcionalidades
+ O site possui uma paleta de cores, que muda sempre que a pagina é atualizada, apenas cor preta é fixa.
+ Possui um quadro de pixels dinamico, que usa a manipulação do DOM para criar o quadro.
+ E possui tambem um input que muda o tamanho do quadro, ao selecionar o botão 'VQV'. 
+ Para pintar o quadro é bastante simples, selecione uma cor da paleta e depois selecione um dos pixels do quadro.
+
+ 
