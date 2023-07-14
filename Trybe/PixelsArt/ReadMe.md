@@ -26,6 +26,6 @@
 
  <h3 id="acesso-ao-projeto"> 📁 Acesso ao projeto </h3>
  
- <h3 id="
-Desenvolvido no curso de Desenvolvimento Fullstack da TRYBE, no modulo de Fundamentos.
+ <h3 id="creditos"> ✍️ Creditos </h3>
+  Desenvolvido no curso de Desenvolvimento Fullstack da TRYBE, no modulo de Fundamentos.
  
