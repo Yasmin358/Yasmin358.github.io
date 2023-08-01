@@ -17,14 +17,21 @@
  <h3 id="funcionalidades"> 🔨 Funcionalidades </h3>
  O site possui uma paleta de cores, que muda sempre que a pagina é atualizada, apenas cor preta é fixa.
  Possui um quadro de pixels dinamico, que usa a manipulação do DOM para criar o quadro.
- E possui tambem um input que muda o tamanho do quadro, ao selecionar o botão 'VQV'. 
+ E o site possui tambem a opção de mudar o tamanho do quadro, bastando apenas digitar um numero e selecionar o botão 'VQV'. 
  Para pintar o quadro é bastante simples, selecione uma cor da paleta e depois selecione um dos pixels do quadro.
 
  <h3 id="desmostração"> 🔭 Demostração </h3>
 
  <h3 id="tecnologias"> 💻 Tecnologias </h3>
-
+   <ul>
+     <li>HTML</li>
+     <li>CSS</li>
+     <li>JavaScript</li>
+   </ul>
+   
  <h3 id="acesso-ao-projeto"> 📁 Acesso ao projeto </h3>
+     <h4>Remotamente</h4>
+     <h4>Localmente</h4>
  
  <h3 id="creditos"> ✍️ Creditos </h3>
   Desenvolvido no curso de Desenvolvimento Fullstack da TRYBE, no modulo de Fundamentos.
