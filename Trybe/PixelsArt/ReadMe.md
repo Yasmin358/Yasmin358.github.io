@@ -31,8 +31,10 @@
    
  <h3 id="acesso-ao-projeto"> 📁 Acesso ao projeto </h3>
      <h4>Remotamente</h4>
+       <p>Clique no link a seguir para abrir o projeto no navegador:</p>
+       <p>Clique no link a seguir para acessar os arquivos do projeto:</p>
      <h4>Localmente</h4>
- 
+     
  <h3 id="creditos"> ✍️ Creditos </h3>
   Desenvolvido no curso de Desenvolvimento Fullstack da TRYBE, no modulo de Fundamentos.
  
