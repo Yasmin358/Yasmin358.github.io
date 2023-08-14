@@ -31,10 +31,35 @@
    
  <h3 id="acesso-ao-projeto"> 📁 Acesso ao projeto </h3>
      <h4>Remotamente</h4>
-       <p>Clique no link a seguir para abrir o projeto no navegador:</p>
-       <p>Clique no link a seguir para acessar os arquivos do projeto:</p>
+       <p>Clique no link a seguir para abrir o projeto no navegador: <br/>
+       <a href="https://yasmin358.github.io/Trybe/PixelsArt"/>https://yasmin358.github.io/Trybe/PixelsArt/</a>
+       </p>
+       <p>Clique no link a seguir para acessar os arquivos do projeto: <br/>
+       <a href=<a href=https://github.com/Yasmin358/Yasmin358.github.io/tree/main/Trybe/PixelsArt"/>
+         https://github.com/Yasmin358/Yasmin358.github.io/tree/main/Trybe/PixelsArt</a>
+       </p>
      <h4>Localmente</h4>
-     
+      <p>
+         Opção 1: <br/>
+         <a href="https://github.com/Yasmin358/Yasmin358.github.io/archive/refs/heads/main.zip">
+         Clique aqui</a> para baixar os projetos <br />
+         Abra a pasta PixelsArt para acessar os arquivos <br />
+         Abra o arquivo index.html usando o navegador para rodar o projeto. 
+         <br/>
+         Opção 2: <br />
+      </p>
+      
+         # Clone este repositório
+         $ git clone git@github.com:Yasmin358/Yasmin358.github.io.git
+
+         # Acesse a pasta do projeto no terminal/cmd
+         $ cd Yasmin358.github.io.git
+         $ cd Trybe
+         $ cd PixelArt
+         
+         Abra os arquivos usando o seu editor de texto favorito
+         Abra o arquivo index.html usando o navegador para rodar o projeto.
+
  <h3 id="creditos"> ✍️ Creditos </h3>
   Desenvolvido no curso de Desenvolvimento Fullstack da TRYBE, no modulo de Fundamentos.
  
