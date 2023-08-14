@@ -21,7 +21,7 @@
  Para pintar o quadro é bastante simples, selecione uma cor da paleta e depois selecione um dos pixels do quadro.
 
  <h3 id="desmostração"> 🔭 Demostração </h3>
-
+    ![PixelArt Demo](../Demo.gif)
  <h3 id="tecnologias"> 💻 Tecnologias </h3>
    <ul>
      <li>HTML</li>
