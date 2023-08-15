@@ -20,9 +20,9 @@
  E o site possui tambem a opção de mudar o tamanho do quadro, bastando apenas digitar um numero e selecionar o botão 'VQV'. 
  Para pintar o quadro é bastante simples, selecione uma cor da paleta e depois selecione um dos pixels do quadro.
 
- <h3 id="desmostração"> 🔭 Demostração </h3>
-    ![PixelArt Demo](../Demo.gif)
- <h3 id="tecnologias"> 💻 Tecnologias </h3>
+ <h3 id="demostração"> 🔭 Demostração </h3>
+    <img src="Demo.gif" alt="PixelArt Demo" >   
+ <h3 id="tecnologias"> 💻 Tecnologias usadas no Projeto </h3>
    <ul>
      <li>HTML</li>
      <li>CSS</li>
