@@ -9,7 +9,7 @@
 <p align="center">
   <a href="#funcionalidades">Funcionalidades</a> •
   <a href="#demostração">Demostração</a> •
-  <a href="#tecnologias">Tecnologias</a> •
+  <a href="#tecnologias-habilidades">Tecnologias e Habilidades</a> •
   <a href="#acesso-ao-projeto">Acesso ao projeto</a> •
   <a href="#creditos">Creditos</a> •
 </p>
@@ -22,11 +22,12 @@
 
  <h3 id="demostração"> 🔭 Demostração </h3>
     <img src="Demo.gif" alt="PixelArt Demo" >   
- <h3 id="tecnologias"> 💻 Tecnologias usadas no Projeto </h3>
+ <h3 id="tecnologias-habilidades"> 💻 Tecnologias e Habilidades usadas no Projeto </h3>
    <ul>
      <li>HTML</li>
      <li>CSS</li>
      <li>JavaScript</li>
+     <li>Manipulação do DOM</li>
    </ul>
    
  <h3 id="acesso-ao-projeto"> 📁 Acesso ao projeto </h3>
@@ -61,5 +62,18 @@
          Abra o arquivo index.html usando o navegador para rodar o projeto.
 
  <h3 id="creditos"> ✍️ Creditos </h3>
-  Desenvolvido no curso de Desenvolvimento Fullstack da TRYBE, no modulo de Fundamentos.
- 
+  O projeto Pixel Art foi desenvolvido no curso de Desenvolvimento Fullstack da TRYBE, no modulo de Fundamentos, segue abaixo os requisitos do projeto:
+   <h4>Obrigatórios:</h4>
+   1 - Adicione à página o título "Paleta de Cores". ✔️ <br/>
+   2 - Adicione à página uma paleta contendo quatro cores distintas.✔️ <br/>
+   3 - Adicione a cor preta como a primeira cor da paleta de cores.✔️ <br/>
+   4 - Adicione à página um quadro de pixels, com 25 pixels.✔️ <br/>
+   5 - Faça com que cada elemento do quadro de pixels possua 40 pixels de largura, 40 pixels de altura e seja delimitado por uma borda preta de 1 pixel.✔️ <br/>
+   6 - Defina a cor preta como cor inicial. Ao carregar a página, a cor preta já deve estar selecionada para pintar os pixels. ✔️ <br/>
+   7 - Clicar em uma das cores da paleta faz com que ela seja selecionada e utilizada para preencher os pixels no quadro.✔️ <br/>
+   8 - Clicar em um pixel dentro do quadro após selecionar uma cor na paleta faz com que o pixel seja preenchido com a cor selecionada.✔️ <br/>
+   9 - Crie um botão que, ao ser clicado, limpa o quadro preenchendo a cor de todos seus pixels com branco.✔️ <br/>
+   <h4>Bonûs</h4>
+   10 - Faça o quadro de pixels ter seu tamanho definido pela pessoa usuária.✔️ <br/>
+   11 - Limite o tamanho mínimo e máximo do board.✔️ <br/>
+   12 - Faça com que as cores da paleta sejam geradas aleatoriamente ao carregar a página.✔️ <br/>
